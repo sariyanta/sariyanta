@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sariyanta
 - 👀 I’m interested in Full stack Web Developer
 - 🌱 I’m currently learning Web Development with Python and Javascript (CS50)
-- 💞️ --
 - 📫 How to reach me  desar@sariyanta.com
 
 <!---
